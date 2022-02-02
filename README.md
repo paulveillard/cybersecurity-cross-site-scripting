@@ -9,7 +9,7 @@ Cross-site Scripting (XSS) is a client-side code injection attack. [Cross-site s
 
 
 
-### Awesome contents
+### XSS contents
 - [Challenges](https://github.com/s0md3v/AwesomeXSS#awesome-challenges)
 - [Reads & Presentations](https://github.com/s0md3v/AwesomeXSS#awesome-reads--presentations)
 - [Tools](https://github.com/s0md3v/AwesomeXSS#awesome-tools)
@@ -29,7 +29,7 @@ Cross-site Scripting (XSS) is a client-side code injection attack. [Cross-site s
 - [Encoding](https://github.com/s0md3v/AwesomeXSS#awesome-encoding)
 - [Tips & tricks](https://github.com/s0md3v/AwesomeXSS#awesome-tips--tricks)
 
-### Awesome Challenges
+### XSS Challenges
 - [prompt.ml](https://prompt.ml)
 - [alf.nu/alert1](https://alf.nu/alert1)
 - [s-p-o-o-k-y.com](https://www.s-p-o-o-k-y.com)
@@ -42,7 +42,7 @@ Cross-site Scripting (XSS) is a client-side code injection attack. [Cross-site s
 - [wechall.net](https://www.wechall.net/challs/XSS)
 - [codelatte.net/xss](https://codelatte.net/xss/)
 
-### Awesome Reads & Presentations
+### XSS Reads & Presentations
 - [Bypassing XSS Detection Mechanisms](https://github.com/s0md3v/MyPapers/tree/master/Bypassing-XSS-detection-mechanisms)
 - [XSS in Sarahah](http://www.shawarkhan.com/2017/08/sarahah-xss-exploitation-tool.html)
 - [XSS in Facebook via PNG Content Type](https://whitton.io/articles/xss-on-facebook-via-png-content-types/)
@@ -51,16 +51,16 @@ Cross-site Scripting (XSS) is a client-side code injection attack. [Cross-site s
 - [Blind XSS](https://www.youtube.com/watch?v=OT0fJEtz7aE)
 - [Copy Pest](https://www.slideshare.net/x00mario/copypest)
 
-### Awesome Tools
+### XSS Tools
 - [XSStrike](https://github.com/UltimateHackers/XSStrike)
 - [xsshunter.com](https://xsshunter.com)
 - [BeEF](https://github.com/beefproject/beef)
 - [JShell](https://github.com/UltimateHackers/JShell)
 
-### Awesome XSS Mind Maps
+### XSS Mind Maps
 A beautiful XSS mind map by Jack Masa, [here](https://github.com/s0md3v/AwesomeXSS/blob/master/Database/jackmasa-mind-map.png)
 
-### Awesome DOM XSS
+### DOM XSS
 
 - Does your input go into a sink? `Vulnerable`
 - It doesn't? `Not vulnerable`
@@ -145,7 +145,7 @@ Here's an XSS polyglot that I made which can break out of 20+ contexts:
 
 Explanation of how it works, [here](https://github.com/s0md3v/AwesomeXSS/blob/master/Database/polyglot.png)
 
-### Awesome Tags & Event Handlers
+### XSS Tags & Event Handlers
 - [105 Event Handlers with description](https://github.com/UltimateHackers/AwesomeXSS/blob/master/Database/event-handlers.md)
 - [200 Event Handlers without description](http://pastebin.com/raw/WwcBmz5J)
 

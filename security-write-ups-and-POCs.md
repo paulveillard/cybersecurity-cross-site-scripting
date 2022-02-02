@@ -1,15 +1,7 @@
-## Awesome Security Write-Ups and POCs
+## XSS Security Write-Ups and POCs
 > A curated list of delightful writeups and POCs
 
-####  Not mine not yours, It's everyone's. Feel free to contribute.
-
-![hacking-resource](https://github.com/dhaval17/hacking-resources/raw/assets/images/hacker.jpg)
-
-
-#### Submitting new resource :
-	
-Please read the [Contribution Doc](/contribution.md)
-#### Content
+## Table of Contents
 
 1. [Cross Site Scripting - XSS](https://github.com/dhaval17/awesome-writeups/blob/master/README.md#cross-site-scripting---xss)
 2. [Cross Site Request Frogery - CSRF](https://github.com/dhaval17/awesome-writeups/blob/master/README.md#cross-site-request-frogery---csrf)

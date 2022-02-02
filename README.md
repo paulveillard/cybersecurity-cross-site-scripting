@@ -1,4 +1,9 @@
-# Cross Site Scripting
+# Cross-Site Scripting
+
+
+> An ongoing curated collection of awesome XSS software, libraries, frameworks, learning tutorials & practical resources cross-site scripting.
+> Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
+
 
 
 **[`^        back to top        ^`](#)**

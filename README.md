@@ -1,1 +1,1 @@
-# cybersecurity-cross-site-scripting
+# Cross Site Scripting
